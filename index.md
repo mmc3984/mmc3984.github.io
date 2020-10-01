@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Matt Colton
 
-You can use the [editor on GitHub](https://github.com/mmc3984/mmc3984.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I'm Matt Colton, a freshman Software Engineering major at RIT, and this is my GitHub Pages site!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Rundown
 
-### Markdown
+I'm from Fairport, NY, a suburb not far from RIT, and attended McQuaid Jesuit High School. During my time there, my big 'thing' was the robotics team, ours being IgKnighters Team 3173. Robotics played a large part in my interest in programming in an engineering setting, and is a large part of why I'm excited to work on bigger projects in my future.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Favorite Food
 
-```markdown
-Syntax highlighted code block
+I'm one of the very few people in the United States that likes pizza!
 
-# Header 1
-## Header 2
-### Header 3
+![pizza time](images/pizza.png)
 
-- Bulleted
-- List
+#### [se.rit.edu/~swen-101/](https://se.rit.edu/~swen-101/)
 
-1. Numbered
-2. List
+#### What I'd like to learn from SWEN 101
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mmc3984/mmc3984.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  - Firm understanding of various work ethics within software engineering
+  - A higher abliity to effectively communicate complex concepts
+  - Knowledge on how to efficiently initiate and manage projects
