@@ -12,7 +12,7 @@ I'm one of the very few people in the United States that likes pizza!
 
 ![pizza time](images/pizza.png)
 
-#### [se.rit.edu/~swen-101/](https://se.rit.edu/~swen-101/)
+#### [se.rit.edu/~swen-101/](http://www.se.rit.edu/~swen-101/)
 
 #### What I'd like to learn from SWEN 101
 
