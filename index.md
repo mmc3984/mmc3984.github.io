@@ -10,7 +10,7 @@ I'm from Fairport, NY, a suburb not far from RIT, and attended McQuaid Jesuit Hi
 
 I'm one of the very few people in the United States that likes pizza!
 
-![pizza time](images/pizza.png)
+![pizza time](https://raw.githubusercontent.com/mmc3984/mmc3984.github.io/master/images/pizza.png)
 
 #### [se.rit.edu/~swen-101/](http://www.se.rit.edu/~swen-101/)
 
